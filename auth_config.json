@@ -1,6 +1,6 @@
 {
-  "domain": "",
-  "clientId": "",
-  "audience": "",
-  "serverUrl": ""
+  "domain": "dev-ged6fg-d.us.auth0.com",
+  "clientId": "I2sBj0P2DqmM2ODiYLhVDr8Gh830AaWD",
+  "audience": "https://dev-ged6fg-d.us.auth0.com/api/v2/",
+  "serverUrl": "https://backend-juan.netlify.app/.netlify/functions/index"
 }
